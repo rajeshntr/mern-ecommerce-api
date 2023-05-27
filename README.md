@@ -1,4 +1,4 @@
-# mern-ecommerce-api
+# MERN Ecommerce API
 Description
 
 E-Commerce backend API built with NodeJS, ExpressJS and MongoDB.
@@ -11,4 +11,8 @@ Features:
     Node provides the backend environment for this application
     Express middleware is used to handle requests, routes
     Mongoose schemas to model the application data
-    
+ 
+Languages & tools
+    NodeJS
+    ExpressJS
+    MongoDB
